@@ -1,0 +1,8 @@
+# Env
+.env
+
+# Logs
+.DS_Store
+
+# Build
+target/*
